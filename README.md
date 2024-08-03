@@ -21,7 +21,7 @@
         <h3> Creation of bash file
             <pre> <code>nano iperf3_test.sh</code> </pre>
         </h3>
-        <pre><code># Define server IP and test parameters
+        <pre><code># Define server IP
   SERVER_IP="server_ip_running_iperf3_server"
   # Run the tests in an infinite loop
   while true; do
